@@ -52,13 +52,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Running the project in DEV
 
-    $ npm start
+    $ npm run dev
 
-## Building for production in
+## Running the project in Server
 
-    $ npm run build
-
-## serve production build
-
-    $ npm global add serve
-    $ serve -s build
+    $ npm run start

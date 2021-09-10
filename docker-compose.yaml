@@ -1,0 +1,11 @@
+version: "3"
+services:
+  frontend:
+    image: DOCKER_REPO/PRO_NAME/APP_NAME:latest
+    ports:
+      - "5000:8000"
+    restart: always
+    environment:
+      NODE_ENV: production
+    labels:
+      kompose.service.type: LoadBalancer
