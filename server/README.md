@@ -46,10 +46,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
   $ npm install
 
-## Testing the project
-
-    $ npm test
-
 ## Running the project in DEV
 
     $ npm run dev
