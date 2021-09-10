@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.tile{
+  height: 15px;
+  width: 15px;
+  margin: 3px;
+  box-shadow: 2px 2px gray;
+  border: 1px solid gray;
+
+}
+
+.table{
+  width: 100%;
+}
+
+.tdLeft{
+  width: 10%;
+  border-right: 1px solid gray;
+}
+
+.tdRight{
+  width: 90%;
+}
+
+.header{
+  border-bottom: 1px solid gray;
+
+}
+
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.column {
+  float: left;
+  height: 15px;
+  width: 15px;
+  margin: 3px;
+  box-shadow: 2px 2px gray;
+  border: 1px solid gray;
+}
+
+.column-rotate {
+  float: left;
+  height: 15px;
+  width: 15px;
+  margin: 3px;
+  box-shadow: 2px 2px gray;
+  border: 1px solid gray;
+   -ms-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
+
+
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

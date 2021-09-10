@@ -1,0 +1,2731 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`APP should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <App
+    name="app test"
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": <Card
+        className="main-card mb-12"
+        tag="div"
+>
+        <CardBody
+                tag="div"
+        >
+                <CardTitle
+                        tag="div"
+                >
+                         Tile Renderer
+                </CardTitle>
+                <Row
+                        tag="div"
+                        widths={
+                                Array [
+                                        "xs",
+                                        "sm",
+                                        "md",
+                                        "lg",
+                                        "xl",
+                                      ]
+                        }
+                >
+                        <Col
+                                sm={12}
+                                tag="div"
+                                widths={
+                                        Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                                }
+                        >
+                                <table
+                                        className="table"
+                                >
+                                        <tbody>
+                                                <tr>
+                                                        <td
+                                                                align="center"
+                                                                className="tdLeft"
+                                                                valign="middle"
+                                                        >
+                                                                <Button
+                                                                        className="btn-wide mb-6 mr-6"
+                                                                        color="primary"
+                                                                        id="reset"
+                                                                        onClick={[Function]}
+                                                                        size="lg"
+                                                                        tag="button"
+                                                                >
+                                                                        Reset All
+                                                                </Button>
+                                                        </td>
+                                                        <td
+                                                                align="center"
+                                                                className="tdRight"
+                                                                valign="middle"
+                                                        >
+                                                                <div
+                                                                        className="header"
+                                                                >
+                                                                         Cummulative number of squares created  : 
+                                                                        NaN
+                                                                         
+                                                                </div>
+                                                                <div
+                                                                        className="row"
+                                                                >
+                                                                        
+                                                                </div>
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </Col>
+                </Row>
+        </CardBody>
+</Card>,
+      "component": "div",
+      "transitionAppear": true,
+      "transitionAppearTimeout": 0,
+      "transitionEnter": false,
+      "transitionLeave": false,
+      "transitionName": "TabsAnimation",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": <CardBody
+          tag="div"
+>
+          <CardTitle
+                    tag="div"
+          >
+                     Tile Renderer
+          </CardTitle>
+          <Row
+                    tag="div"
+                    widths={
+                              Array [
+                                        "xs",
+                                        "sm",
+                                        "md",
+                                        "lg",
+                                        "xl",
+                                      ]
+                    }
+          >
+                    <Col
+                              sm={12}
+                              tag="div"
+                              widths={
+                                        Array [
+                                                  "xs",
+                                                  "sm",
+                                                  "md",
+                                                  "lg",
+                                                  "xl",
+                                                ]
+                              }
+                    >
+                              <table
+                                        className="table"
+                              >
+                                        <tbody>
+                                                  <tr>
+                                                            <td
+                                                                      align="center"
+                                                                      className="tdLeft"
+                                                                      valign="middle"
+                                                            >
+                                                                      <Button
+                                                                                className="btn-wide mb-6 mr-6"
+                                                                                color="primary"
+                                                                                id="reset"
+                                                                                onClick={[Function]}
+                                                                                size="lg"
+                                                                                tag="button"
+                                                                      >
+                                                                                Reset All
+                                                                      </Button>
+                                                            </td>
+                                                            <td
+                                                                      align="center"
+                                                                      className="tdRight"
+                                                                      valign="middle"
+                                                            >
+                                                                      <div
+                                                                                className="header"
+                                                                      >
+                                                                                 Cummulative number of squares created  : 
+                                                                                NaN
+                                                                                 
+                                                                      </div>
+                                                                      <div
+                                                                                className="row"
+                                                                      >
+                                                                                
+                                                                      </div>
+                                                            </td>
+                                                  </tr>
+                                        </tbody>
+                              </table>
+                    </Col>
+          </Row>
+</CardBody>,
+        "className": "main-card mb-12",
+        "tag": "div",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": Array [
+            <CardTitle
+              tag="div"
+>
+               Tile Renderer
+</CardTitle>,
+            <Row
+              tag="div"
+              widths={
+                            Array [
+                                          "xs",
+                                          "sm",
+                                          "md",
+                                          "lg",
+                                          "xl",
+                                        ]
+              }
+>
+              <Col
+                            sm={12}
+                            tag="div"
+                            widths={
+                                          Array [
+                                                        "xs",
+                                                        "sm",
+                                                        "md",
+                                                        "lg",
+                                                        "xl",
+                                                      ]
+                            }
+              >
+                            <table
+                                          className="table"
+                            >
+                                          <tbody>
+                                                        <tr>
+                                                                      <td
+                                                                                    align="center"
+                                                                                    className="tdLeft"
+                                                                                    valign="middle"
+                                                                      >
+                                                                                    <Button
+                                                                                                  className="btn-wide mb-6 mr-6"
+                                                                                                  color="primary"
+                                                                                                  id="reset"
+                                                                                                  onClick={[Function]}
+                                                                                                  size="lg"
+                                                                                                  tag="button"
+                                                                                    >
+                                                                                                  Reset All
+                                                                                    </Button>
+                                                                      </td>
+                                                                      <td
+                                                                                    align="center"
+                                                                                    className="tdRight"
+                                                                                    valign="middle"
+                                                                      >
+                                                                                    <div
+                                                                                                  className="header"
+                                                                                    >
+                                                                                                   Cummulative number of squares created  : 
+                                                                                                  NaN
+                                                                                                   
+                                                                                    </div>
+                                                                                    <div
+                                                                                                  className="row"
+                                                                                    >
+                                                                                                  
+                                                                                    </div>
+                                                                      </td>
+                                                        </tr>
+                                          </tbody>
+                            </table>
+              </Col>
+</Row>,
+          ],
+          "tag": "div",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": " Tile Renderer",
+              "tag": "div",
+            },
+            "ref": null,
+            "rendered": " Tile Renderer",
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": <Col
+                sm={12}
+                tag="div"
+                widths={
+                                Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                }
+>
+                <table
+                                className="table"
+                >
+                                <tbody>
+                                                <tr>
+                                                                <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                                >
+                                                                                <Button
+                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                color="primary"
+                                                                                                id="reset"
+                                                                                                onClick={[Function]}
+                                                                                                size="lg"
+                                                                                                tag="button"
+                                                                                >
+                                                                                                Reset All
+                                                                                </Button>
+                                                                </td>
+                                                                <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                                >
+                                                                                <div
+                                                                                                className="header"
+                                                                                >
+                                                                                                 Cummulative number of squares created  : 
+                                                                                                NaN
+                                                                                                 
+                                                                                </div>
+                                                                                <div
+                                                                                                className="row"
+                                                                                >
+                                                                                                
+                                                                                </div>
+                                                                </td>
+                                                </tr>
+                                </tbody>
+                </table>
+</Col>,
+              "tag": "div",
+              "widths": Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": <table
+                  className="table"
+>
+                  <tbody>
+                                    <tr>
+                                                      <td
+                                                                        align="center"
+                                                                        className="tdLeft"
+                                                                        valign="middle"
+                                                      >
+                                                                        <Button
+                                                                                          className="btn-wide mb-6 mr-6"
+                                                                                          color="primary"
+                                                                                          id="reset"
+                                                                                          onClick={[Function]}
+                                                                                          size="lg"
+                                                                                          tag="button"
+                                                                        >
+                                                                                          Reset All
+                                                                        </Button>
+                                                      </td>
+                                                      <td
+                                                                        align="center"
+                                                                        className="tdRight"
+                                                                        valign="middle"
+                                                      >
+                                                                        <div
+                                                                                          className="header"
+                                                                        >
+                                                                                           Cummulative number of squares created  : 
+                                                                                          NaN
+                                                                                           
+                                                                        </div>
+                                                                        <div
+                                                                                          className="row"
+                                                                        >
+                                                                                          
+                                                                        </div>
+                                                      </td>
+                                    </tr>
+                  </tbody>
+</table>,
+                "sm": 12,
+                "tag": "div",
+                "widths": Array [
+                  "xs",
+                  "sm",
+                  "md",
+                  "lg",
+                  "xl",
+                ],
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <tbody>
+                    <tr>
+                                        <td
+                                                            align="center"
+                                                            className="tdLeft"
+                                                            valign="middle"
+                                        >
+                                                            <Button
+                                                                                className="btn-wide mb-6 mr-6"
+                                                                                color="primary"
+                                                                                id="reset"
+                                                                                onClick={[Function]}
+                                                                                size="lg"
+                                                                                tag="button"
+                                                            >
+                                                                                Reset All
+                                                            </Button>
+                                        </td>
+                                        <td
+                                                            align="center"
+                                                            className="tdRight"
+                                                            valign="middle"
+                                        >
+                                                            <div
+                                                                                className="header"
+                                                            >
+                                                                                 Cummulative number of squares created  : 
+                                                                                NaN
+                                                                                 
+                                                            </div>
+                                                            <div
+                                                                                className="row"
+                                                            >
+                                                                                
+                                                            </div>
+                                        </td>
+                    </tr>
+</tbody>,
+                  "className": "table",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <tr>
+                      <td
+                                            align="center"
+                                            className="tdLeft"
+                                            valign="middle"
+                      >
+                                            <Button
+                                                                  className="btn-wide mb-6 mr-6"
+                                                                  color="primary"
+                                                                  id="reset"
+                                                                  onClick={[Function]}
+                                                                  size="lg"
+                                                                  tag="button"
+                                            >
+                                                                  Reset All
+                                            </Button>
+                      </td>
+                      <td
+                                            align="center"
+                                            className="tdRight"
+                                            valign="middle"
+                      >
+                                            <div
+                                                                  className="header"
+                                            >
+                                                                   Cummulative number of squares created  : 
+                                                                  NaN
+                                                                   
+                                            </div>
+                                            <div
+                                                                  className="row"
+                                            >
+                                                                  
+                                            </div>
+                      </td>
+</tr>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <td
+                          align="center"
+                          className="tdLeft"
+                          valign="middle"
+>
+                          <Button
+                                                    className="btn-wide mb-6 mr-6"
+                                                    color="primary"
+                                                    id="reset"
+                                                    onClick={[Function]}
+                                                    size="lg"
+                                                    tag="button"
+                          >
+                                                    Reset All
+                          </Button>
+</td>,
+                        <td
+                          align="center"
+                          className="tdRight"
+                          valign="middle"
+>
+                          <div
+                                                    className="header"
+                          >
+                                                     Cummulative number of squares created  : 
+                                                    NaN
+                                                     
+                          </div>
+                          <div
+                                                    className="row"
+                          >
+                                                    
+                          </div>
+</td>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "align": "center",
+                          "children": <Button
+                            className="btn-wide mb-6 mr-6"
+                            color="primary"
+                            id="reset"
+                            onClick={[Function]}
+                            size="lg"
+                            tag="button"
+>
+                            Reset All
+</Button>,
+                          "className": "tdLeft",
+                          "valign": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "class",
+                          "props": Object {
+                            "children": "Reset All",
+                            "className": "btn-wide mb-6 mr-6",
+                            "color": "primary",
+                            "id": "reset",
+                            "onClick": [Function],
+                            "size": "lg",
+                            "tag": "button",
+                          },
+                          "ref": null,
+                          "rendered": "Reset All",
+                          "type": [Function],
+                        },
+                        "type": "td",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "align": "center",
+                          "children": Array [
+                            <div
+                              className="header"
+>
+                               Cummulative number of squares created  : 
+                              NaN
+                               
+</div>,
+                            <div
+                              className="row"
+>
+                              
+</div>,
+                          ],
+                          "className": "tdRight",
+                          "valign": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": Array [
+                                " Cummulative number of squares created  : ",
+                                NaN,
+                                " ",
+                              ],
+                              "className": "header",
+                            },
+                            "ref": null,
+                            "rendered": Array [
+                              " Cummulative number of squares created  : ",
+                              NaN,
+                              " ",
+                            ],
+                            "type": "div",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": Array [],
+                              "className": "row",
+                            },
+                            "ref": null,
+                            "rendered": Array [],
+                            "type": "div",
+                          },
+                        ],
+                        "type": "td",
+                      },
+                    ],
+                    "type": "tr",
+                  },
+                  "type": "tbody",
+                },
+                "type": "table",
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <Card
+          className="main-card mb-12"
+          tag="div"
+>
+          <CardBody
+                    tag="div"
+          >
+                    <CardTitle
+                              tag="div"
+                    >
+                               Tile Renderer
+                    </CardTitle>
+                    <Row
+                              tag="div"
+                              widths={
+                                        Array [
+                                                  "xs",
+                                                  "sm",
+                                                  "md",
+                                                  "lg",
+                                                  "xl",
+                                                ]
+                              }
+                    >
+                              <Col
+                                        sm={12}
+                                        tag="div"
+                                        widths={
+                                                  Array [
+                                                            "xs",
+                                                            "sm",
+                                                            "md",
+                                                            "lg",
+                                                            "xl",
+                                                          ]
+                                        }
+                              >
+                                        <table
+                                                  className="table"
+                                        >
+                                                  <tbody>
+                                                            <tr>
+                                                                      <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                                      >
+                                                                                <Button
+                                                                                          className="btn-wide mb-6 mr-6"
+                                                                                          color="primary"
+                                                                                          id="reset"
+                                                                                          onClick={[Function]}
+                                                                                          size="lg"
+                                                                                          tag="button"
+                                                                                >
+                                                                                          Reset All
+                                                                                </Button>
+                                                                      </td>
+                                                                      <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                                      >
+                                                                                <div
+                                                                                          className="header"
+                                                                                >
+                                                                                           Cummulative number of squares created  : 
+                                                                                          NaN
+                                                                                           
+                                                                                </div>
+                                                                                <div
+                                                                                          className="row"
+                                                                                >
+                                                                                          
+                                                                                </div>
+                                                                      </td>
+                                                            </tr>
+                                                  </tbody>
+                                        </table>
+                              </Col>
+                    </Row>
+          </CardBody>
+</Card>,
+        "component": "div",
+        "transitionAppear": true,
+        "transitionAppearTimeout": 0,
+        "transitionEnter": false,
+        "transitionLeave": false,
+        "transitionName": "TabsAnimation",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": <CardBody
+            tag="div"
+>
+            <CardTitle
+                        tag="div"
+            >
+                         Tile Renderer
+            </CardTitle>
+            <Row
+                        tag="div"
+                        widths={
+                                    Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                        }
+            >
+                        <Col
+                                    sm={12}
+                                    tag="div"
+                                    widths={
+                                                Array [
+                                                            "xs",
+                                                            "sm",
+                                                            "md",
+                                                            "lg",
+                                                            "xl",
+                                                          ]
+                                    }
+                        >
+                                    <table
+                                                className="table"
+                                    >
+                                                <tbody>
+                                                            <tr>
+                                                                        <td
+                                                                                    align="center"
+                                                                                    className="tdLeft"
+                                                                                    valign="middle"
+                                                                        >
+                                                                                    <Button
+                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                color="primary"
+                                                                                                id="reset"
+                                                                                                onClick={[Function]}
+                                                                                                size="lg"
+                                                                                                tag="button"
+                                                                                    >
+                                                                                                Reset All
+                                                                                    </Button>
+                                                                        </td>
+                                                                        <td
+                                                                                    align="center"
+                                                                                    className="tdRight"
+                                                                                    valign="middle"
+                                                                        >
+                                                                                    <div
+                                                                                                className="header"
+                                                                                    >
+                                                                                                 Cummulative number of squares created  : 
+                                                                                                NaN
+                                                                                                 
+                                                                                    </div>
+                                                                                    <div
+                                                                                                className="row"
+                                                                                    >
+                                                                                                
+                                                                                    </div>
+                                                                        </td>
+                                                            </tr>
+                                                </tbody>
+                                    </table>
+                        </Col>
+            </Row>
+</CardBody>,
+          "className": "main-card mb-12",
+          "tag": "div",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": Array [
+              <CardTitle
+                tag="div"
+>
+                 Tile Renderer
+</CardTitle>,
+              <Row
+                tag="div"
+                widths={
+                                Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                }
+>
+                <Col
+                                sm={12}
+                                tag="div"
+                                widths={
+                                                Array [
+                                                                "xs",
+                                                                "sm",
+                                                                "md",
+                                                                "lg",
+                                                                "xl",
+                                                              ]
+                                }
+                >
+                                <table
+                                                className="table"
+                                >
+                                                <tbody>
+                                                                <tr>
+                                                                                <td
+                                                                                                align="center"
+                                                                                                className="tdLeft"
+                                                                                                valign="middle"
+                                                                                >
+                                                                                                <Button
+                                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                                color="primary"
+                                                                                                                id="reset"
+                                                                                                                onClick={[Function]}
+                                                                                                                size="lg"
+                                                                                                                tag="button"
+                                                                                                >
+                                                                                                                Reset All
+                                                                                                </Button>
+                                                                                </td>
+                                                                                <td
+                                                                                                align="center"
+                                                                                                className="tdRight"
+                                                                                                valign="middle"
+                                                                                >
+                                                                                                <div
+                                                                                                                className="header"
+                                                                                                >
+                                                                                                                 Cummulative number of squares created  : 
+                                                                                                                NaN
+                                                                                                                 
+                                                                                                </div>
+                                                                                                <div
+                                                                                                                className="row"
+                                                                                                >
+                                                                                                                
+                                                                                                </div>
+                                                                                </td>
+                                                                </tr>
+                                                </tbody>
+                                </table>
+                </Col>
+</Row>,
+            ],
+            "tag": "div",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": " Tile Renderer",
+                "tag": "div",
+              },
+              "ref": null,
+              "rendered": " Tile Renderer",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": <Col
+                  sm={12}
+                  tag="div"
+                  widths={
+                                    Array [
+                                                      "xs",
+                                                      "sm",
+                                                      "md",
+                                                      "lg",
+                                                      "xl",
+                                                    ]
+                  }
+>
+                  <table
+                                    className="table"
+                  >
+                                    <tbody>
+                                                      <tr>
+                                                                        <td
+                                                                                          align="center"
+                                                                                          className="tdLeft"
+                                                                                          valign="middle"
+                                                                        >
+                                                                                          <Button
+                                                                                                            className="btn-wide mb-6 mr-6"
+                                                                                                            color="primary"
+                                                                                                            id="reset"
+                                                                                                            onClick={[Function]}
+                                                                                                            size="lg"
+                                                                                                            tag="button"
+                                                                                          >
+                                                                                                            Reset All
+                                                                                          </Button>
+                                                                        </td>
+                                                                        <td
+                                                                                          align="center"
+                                                                                          className="tdRight"
+                                                                                          valign="middle"
+                                                                        >
+                                                                                          <div
+                                                                                                            className="header"
+                                                                                          >
+                                                                                                             Cummulative number of squares created  : 
+                                                                                                            NaN
+                                                                                                             
+                                                                                          </div>
+                                                                                          <div
+                                                                                                            className="row"
+                                                                                          >
+                                                                                                            
+                                                                                          </div>
+                                                                        </td>
+                                                      </tr>
+                                    </tbody>
+                  </table>
+</Col>,
+                "tag": "div",
+                "widths": Array [
+                  "xs",
+                  "sm",
+                  "md",
+                  "lg",
+                  "xl",
+                ],
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <table
+                    className="table"
+>
+                    <tbody>
+                                        <tr>
+                                                            <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                            >
+                                                                                <Button
+                                                                                                    className="btn-wide mb-6 mr-6"
+                                                                                                    color="primary"
+                                                                                                    id="reset"
+                                                                                                    onClick={[Function]}
+                                                                                                    size="lg"
+                                                                                                    tag="button"
+                                                                                >
+                                                                                                    Reset All
+                                                                                </Button>
+                                                            </td>
+                                                            <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                            >
+                                                                                <div
+                                                                                                    className="header"
+                                                                                >
+                                                                                                     Cummulative number of squares created  : 
+                                                                                                    NaN
+                                                                                                     
+                                                                                </div>
+                                                                                <div
+                                                                                                    className="row"
+                                                                                >
+                                                                                                    
+                                                                                </div>
+                                                            </td>
+                                        </tr>
+                    </tbody>
+</table>,
+                  "sm": 12,
+                  "tag": "div",
+                  "widths": Array [
+                    "xs",
+                    "sm",
+                    "md",
+                    "lg",
+                    "xl",
+                  ],
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <tbody>
+                      <tr>
+                                            <td
+                                                                  align="center"
+                                                                  className="tdLeft"
+                                                                  valign="middle"
+                                            >
+                                                                  <Button
+                                                                                        className="btn-wide mb-6 mr-6"
+                                                                                        color="primary"
+                                                                                        id="reset"
+                                                                                        onClick={[Function]}
+                                                                                        size="lg"
+                                                                                        tag="button"
+                                                                  >
+                                                                                        Reset All
+                                                                  </Button>
+                                            </td>
+                                            <td
+                                                                  align="center"
+                                                                  className="tdRight"
+                                                                  valign="middle"
+                                            >
+                                                                  <div
+                                                                                        className="header"
+                                                                  >
+                                                                                         Cummulative number of squares created  : 
+                                                                                        NaN
+                                                                                         
+                                                                  </div>
+                                                                  <div
+                                                                                        className="row"
+                                                                  >
+                                                                                        
+                                                                  </div>
+                                            </td>
+                      </tr>
+</tbody>,
+                    "className": "table",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <tr>
+                        <td
+                                                align="center"
+                                                className="tdLeft"
+                                                valign="middle"
+                        >
+                                                <Button
+                                                                        className="btn-wide mb-6 mr-6"
+                                                                        color="primary"
+                                                                        id="reset"
+                                                                        onClick={[Function]}
+                                                                        size="lg"
+                                                                        tag="button"
+                                                >
+                                                                        Reset All
+                                                </Button>
+                        </td>
+                        <td
+                                                align="center"
+                                                className="tdRight"
+                                                valign="middle"
+                        >
+                                                <div
+                                                                        className="header"
+                                                >
+                                                                         Cummulative number of squares created  : 
+                                                                        NaN
+                                                                         
+                                                </div>
+                                                <div
+                                                                        className="row"
+                                                >
+                                                                        
+                                                </div>
+                        </td>
+</tr>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <td
+                            align="center"
+                            className="tdLeft"
+                            valign="middle"
+>
+                            <Button
+                                                        className="btn-wide mb-6 mr-6"
+                                                        color="primary"
+                                                        id="reset"
+                                                        onClick={[Function]}
+                                                        size="lg"
+                                                        tag="button"
+                            >
+                                                        Reset All
+                            </Button>
+</td>,
+                          <td
+                            align="center"
+                            className="tdRight"
+                            valign="middle"
+>
+                            <div
+                                                        className="header"
+                            >
+                                                         Cummulative number of squares created  : 
+                                                        NaN
+                                                         
+                            </div>
+                            <div
+                                                        className="row"
+                            >
+                                                        
+                            </div>
+</td>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "align": "center",
+                            "children": <Button
+                              className="btn-wide mb-6 mr-6"
+                              color="primary"
+                              id="reset"
+                              onClick={[Function]}
+                              size="lg"
+                              tag="button"
+>
+                              Reset All
+</Button>,
+                            "className": "tdLeft",
+                            "valign": "middle",
+                          },
+                          "ref": null,
+                          "rendered": Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "class",
+                            "props": Object {
+                              "children": "Reset All",
+                              "className": "btn-wide mb-6 mr-6",
+                              "color": "primary",
+                              "id": "reset",
+                              "onClick": [Function],
+                              "size": "lg",
+                              "tag": "button",
+                            },
+                            "ref": null,
+                            "rendered": "Reset All",
+                            "type": [Function],
+                          },
+                          "type": "td",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "align": "center",
+                            "children": Array [
+                              <div
+                                className="header"
+>
+                                 Cummulative number of squares created  : 
+                                NaN
+                                 
+</div>,
+                              <div
+                                className="row"
+>
+                                
+</div>,
+                            ],
+                            "className": "tdRight",
+                            "valign": "middle",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": Array [
+                                  " Cummulative number of squares created  : ",
+                                  NaN,
+                                  " ",
+                                ],
+                                "className": "header",
+                              },
+                              "ref": null,
+                              "rendered": Array [
+                                " Cummulative number of squares created  : ",
+                                NaN,
+                                " ",
+                              ],
+                              "type": "div",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": Array [],
+                                "className": "row",
+                              },
+                              "ref": null,
+                              "rendered": Array [],
+                              "type": "div",
+                            },
+                          ],
+                          "type": "td",
+                        },
+                      ],
+                      "type": "tr",
+                    },
+                    "type": "tbody",
+                  },
+                  "type": "table",
+                },
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+  Symbol(enzyme.__childContext__): null,
+}
+`;
+
+exports[`Button should render correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <App
+    name="button test"
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "children": <Card
+        className="main-card mb-12"
+        tag="div"
+>
+        <CardBody
+                tag="div"
+        >
+                <CardTitle
+                        tag="div"
+                >
+                         Tile Renderer
+                </CardTitle>
+                <Row
+                        tag="div"
+                        widths={
+                                Array [
+                                        "xs",
+                                        "sm",
+                                        "md",
+                                        "lg",
+                                        "xl",
+                                      ]
+                        }
+                >
+                        <Col
+                                sm={12}
+                                tag="div"
+                                widths={
+                                        Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                                }
+                        >
+                                <table
+                                        className="table"
+                                >
+                                        <tbody>
+                                                <tr>
+                                                        <td
+                                                                align="center"
+                                                                className="tdLeft"
+                                                                valign="middle"
+                                                        >
+                                                                <Button
+                                                                        className="btn-wide mb-6 mr-6"
+                                                                        color="primary"
+                                                                        id="reset"
+                                                                        onClick={[Function]}
+                                                                        size="lg"
+                                                                        tag="button"
+                                                                >
+                                                                        Reset All
+                                                                </Button>
+                                                        </td>
+                                                        <td
+                                                                align="center"
+                                                                className="tdRight"
+                                                                valign="middle"
+                                                        >
+                                                                <div
+                                                                        className="header"
+                                                                >
+                                                                         Cummulative number of squares created  : 
+                                                                        NaN
+                                                                         
+                                                                </div>
+                                                                <div
+                                                                        className="row"
+                                                                >
+                                                                        
+                                                                </div>
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </Col>
+                </Row>
+        </CardBody>
+</Card>,
+      "component": "div",
+      "transitionAppear": true,
+      "transitionAppearTimeout": 0,
+      "transitionEnter": false,
+      "transitionLeave": false,
+      "transitionName": "TabsAnimation",
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": <CardBody
+          tag="div"
+>
+          <CardTitle
+                    tag="div"
+          >
+                     Tile Renderer
+          </CardTitle>
+          <Row
+                    tag="div"
+                    widths={
+                              Array [
+                                        "xs",
+                                        "sm",
+                                        "md",
+                                        "lg",
+                                        "xl",
+                                      ]
+                    }
+          >
+                    <Col
+                              sm={12}
+                              tag="div"
+                              widths={
+                                        Array [
+                                                  "xs",
+                                                  "sm",
+                                                  "md",
+                                                  "lg",
+                                                  "xl",
+                                                ]
+                              }
+                    >
+                              <table
+                                        className="table"
+                              >
+                                        <tbody>
+                                                  <tr>
+                                                            <td
+                                                                      align="center"
+                                                                      className="tdLeft"
+                                                                      valign="middle"
+                                                            >
+                                                                      <Button
+                                                                                className="btn-wide mb-6 mr-6"
+                                                                                color="primary"
+                                                                                id="reset"
+                                                                                onClick={[Function]}
+                                                                                size="lg"
+                                                                                tag="button"
+                                                                      >
+                                                                                Reset All
+                                                                      </Button>
+                                                            </td>
+                                                            <td
+                                                                      align="center"
+                                                                      className="tdRight"
+                                                                      valign="middle"
+                                                            >
+                                                                      <div
+                                                                                className="header"
+                                                                      >
+                                                                                 Cummulative number of squares created  : 
+                                                                                NaN
+                                                                                 
+                                                                      </div>
+                                                                      <div
+                                                                                className="row"
+                                                                      >
+                                                                                
+                                                                      </div>
+                                                            </td>
+                                                  </tr>
+                                        </tbody>
+                              </table>
+                    </Col>
+          </Row>
+</CardBody>,
+        "className": "main-card mb-12",
+        "tag": "div",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": Array [
+            <CardTitle
+              tag="div"
+>
+               Tile Renderer
+</CardTitle>,
+            <Row
+              tag="div"
+              widths={
+                            Array [
+                                          "xs",
+                                          "sm",
+                                          "md",
+                                          "lg",
+                                          "xl",
+                                        ]
+              }
+>
+              <Col
+                            sm={12}
+                            tag="div"
+                            widths={
+                                          Array [
+                                                        "xs",
+                                                        "sm",
+                                                        "md",
+                                                        "lg",
+                                                        "xl",
+                                                      ]
+                            }
+              >
+                            <table
+                                          className="table"
+                            >
+                                          <tbody>
+                                                        <tr>
+                                                                      <td
+                                                                                    align="center"
+                                                                                    className="tdLeft"
+                                                                                    valign="middle"
+                                                                      >
+                                                                                    <Button
+                                                                                                  className="btn-wide mb-6 mr-6"
+                                                                                                  color="primary"
+                                                                                                  id="reset"
+                                                                                                  onClick={[Function]}
+                                                                                                  size="lg"
+                                                                                                  tag="button"
+                                                                                    >
+                                                                                                  Reset All
+                                                                                    </Button>
+                                                                      </td>
+                                                                      <td
+                                                                                    align="center"
+                                                                                    className="tdRight"
+                                                                                    valign="middle"
+                                                                      >
+                                                                                    <div
+                                                                                                  className="header"
+                                                                                    >
+                                                                                                   Cummulative number of squares created  : 
+                                                                                                  NaN
+                                                                                                   
+                                                                                    </div>
+                                                                                    <div
+                                                                                                  className="row"
+                                                                                    >
+                                                                                                  
+                                                                                    </div>
+                                                                      </td>
+                                                        </tr>
+                                          </tbody>
+                            </table>
+              </Col>
+</Row>,
+          ],
+          "tag": "div",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": " Tile Renderer",
+              "tag": "div",
+            },
+            "ref": null,
+            "rendered": " Tile Renderer",
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "children": <Col
+                sm={12}
+                tag="div"
+                widths={
+                                Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                }
+>
+                <table
+                                className="table"
+                >
+                                <tbody>
+                                                <tr>
+                                                                <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                                >
+                                                                                <Button
+                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                color="primary"
+                                                                                                id="reset"
+                                                                                                onClick={[Function]}
+                                                                                                size="lg"
+                                                                                                tag="button"
+                                                                                >
+                                                                                                Reset All
+                                                                                </Button>
+                                                                </td>
+                                                                <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                                >
+                                                                                <div
+                                                                                                className="header"
+                                                                                >
+                                                                                                 Cummulative number of squares created  : 
+                                                                                                NaN
+                                                                                                 
+                                                                                </div>
+                                                                                <div
+                                                                                                className="row"
+                                                                                >
+                                                                                                
+                                                                                </div>
+                                                                </td>
+                                                </tr>
+                                </tbody>
+                </table>
+</Col>,
+              "tag": "div",
+              "widths": Array [
+                "xs",
+                "sm",
+                "md",
+                "lg",
+                "xl",
+              ],
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": <table
+                  className="table"
+>
+                  <tbody>
+                                    <tr>
+                                                      <td
+                                                                        align="center"
+                                                                        className="tdLeft"
+                                                                        valign="middle"
+                                                      >
+                                                                        <Button
+                                                                                          className="btn-wide mb-6 mr-6"
+                                                                                          color="primary"
+                                                                                          id="reset"
+                                                                                          onClick={[Function]}
+                                                                                          size="lg"
+                                                                                          tag="button"
+                                                                        >
+                                                                                          Reset All
+                                                                        </Button>
+                                                      </td>
+                                                      <td
+                                                                        align="center"
+                                                                        className="tdRight"
+                                                                        valign="middle"
+                                                      >
+                                                                        <div
+                                                                                          className="header"
+                                                                        >
+                                                                                           Cummulative number of squares created  : 
+                                                                                          NaN
+                                                                                           
+                                                                        </div>
+                                                                        <div
+                                                                                          className="row"
+                                                                        >
+                                                                                          
+                                                                        </div>
+                                                      </td>
+                                    </tr>
+                  </tbody>
+</table>,
+                "sm": 12,
+                "tag": "div",
+                "widths": Array [
+                  "xs",
+                  "sm",
+                  "md",
+                  "lg",
+                  "xl",
+                ],
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": <tbody>
+                    <tr>
+                                        <td
+                                                            align="center"
+                                                            className="tdLeft"
+                                                            valign="middle"
+                                        >
+                                                            <Button
+                                                                                className="btn-wide mb-6 mr-6"
+                                                                                color="primary"
+                                                                                id="reset"
+                                                                                onClick={[Function]}
+                                                                                size="lg"
+                                                                                tag="button"
+                                                            >
+                                                                                Reset All
+                                                            </Button>
+                                        </td>
+                                        <td
+                                                            align="center"
+                                                            className="tdRight"
+                                                            valign="middle"
+                                        >
+                                                            <div
+                                                                                className="header"
+                                                            >
+                                                                                 Cummulative number of squares created  : 
+                                                                                NaN
+                                                                                 
+                                                            </div>
+                                                            <div
+                                                                                className="row"
+                                                            >
+                                                                                
+                                                            </div>
+                                        </td>
+                    </tr>
+</tbody>,
+                  "className": "table",
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <tr>
+                      <td
+                                            align="center"
+                                            className="tdLeft"
+                                            valign="middle"
+                      >
+                                            <Button
+                                                                  className="btn-wide mb-6 mr-6"
+                                                                  color="primary"
+                                                                  id="reset"
+                                                                  onClick={[Function]}
+                                                                  size="lg"
+                                                                  tag="button"
+                                            >
+                                                                  Reset All
+                                            </Button>
+                      </td>
+                      <td
+                                            align="center"
+                                            className="tdRight"
+                                            valign="middle"
+                      >
+                                            <div
+                                                                  className="header"
+                                            >
+                                                                   Cummulative number of squares created  : 
+                                                                  NaN
+                                                                   
+                                            </div>
+                                            <div
+                                                                  className="row"
+                                            >
+                                                                  
+                                            </div>
+                      </td>
+</tr>,
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": Array [
+                        <td
+                          align="center"
+                          className="tdLeft"
+                          valign="middle"
+>
+                          <Button
+                                                    className="btn-wide mb-6 mr-6"
+                                                    color="primary"
+                                                    id="reset"
+                                                    onClick={[Function]}
+                                                    size="lg"
+                                                    tag="button"
+                          >
+                                                    Reset All
+                          </Button>
+</td>,
+                        <td
+                          align="center"
+                          className="tdRight"
+                          valign="middle"
+>
+                          <div
+                                                    className="header"
+                          >
+                                                     Cummulative number of squares created  : 
+                                                    NaN
+                                                     
+                          </div>
+                          <div
+                                                    className="row"
+                          >
+                                                    
+                          </div>
+</td>,
+                      ],
+                    },
+                    "ref": null,
+                    "rendered": Array [
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "align": "center",
+                          "children": <Button
+                            className="btn-wide mb-6 mr-6"
+                            color="primary"
+                            id="reset"
+                            onClick={[Function]}
+                            size="lg"
+                            tag="button"
+>
+                            Reset All
+</Button>,
+                          "className": "tdLeft",
+                          "valign": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "class",
+                          "props": Object {
+                            "children": "Reset All",
+                            "className": "btn-wide mb-6 mr-6",
+                            "color": "primary",
+                            "id": "reset",
+                            "onClick": [Function],
+                            "size": "lg",
+                            "tag": "button",
+                          },
+                          "ref": null,
+                          "rendered": "Reset All",
+                          "type": [Function],
+                        },
+                        "type": "td",
+                      },
+                      Object {
+                        "instance": null,
+                        "key": undefined,
+                        "nodeType": "host",
+                        "props": Object {
+                          "align": "center",
+                          "children": Array [
+                            <div
+                              className="header"
+>
+                               Cummulative number of squares created  : 
+                              NaN
+                               
+</div>,
+                            <div
+                              className="row"
+>
+                              
+</div>,
+                          ],
+                          "className": "tdRight",
+                          "valign": "middle",
+                        },
+                        "ref": null,
+                        "rendered": Array [
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": Array [
+                                " Cummulative number of squares created  : ",
+                                NaN,
+                                " ",
+                              ],
+                              "className": "header",
+                            },
+                            "ref": null,
+                            "rendered": Array [
+                              " Cummulative number of squares created  : ",
+                              NaN,
+                              " ",
+                            ],
+                            "type": "div",
+                          },
+                          Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "host",
+                            "props": Object {
+                              "children": Array [],
+                              "className": "row",
+                            },
+                            "ref": null,
+                            "rendered": Array [],
+                            "type": "div",
+                          },
+                        ],
+                        "type": "td",
+                      },
+                    ],
+                    "type": "tr",
+                  },
+                  "type": "tbody",
+                },
+                "type": "table",
+              },
+              "type": [Function],
+            },
+            "type": [Function],
+          },
+        ],
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "children": <Card
+          className="main-card mb-12"
+          tag="div"
+>
+          <CardBody
+                    tag="div"
+          >
+                    <CardTitle
+                              tag="div"
+                    >
+                               Tile Renderer
+                    </CardTitle>
+                    <Row
+                              tag="div"
+                              widths={
+                                        Array [
+                                                  "xs",
+                                                  "sm",
+                                                  "md",
+                                                  "lg",
+                                                  "xl",
+                                                ]
+                              }
+                    >
+                              <Col
+                                        sm={12}
+                                        tag="div"
+                                        widths={
+                                                  Array [
+                                                            "xs",
+                                                            "sm",
+                                                            "md",
+                                                            "lg",
+                                                            "xl",
+                                                          ]
+                                        }
+                              >
+                                        <table
+                                                  className="table"
+                                        >
+                                                  <tbody>
+                                                            <tr>
+                                                                      <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                                      >
+                                                                                <Button
+                                                                                          className="btn-wide mb-6 mr-6"
+                                                                                          color="primary"
+                                                                                          id="reset"
+                                                                                          onClick={[Function]}
+                                                                                          size="lg"
+                                                                                          tag="button"
+                                                                                >
+                                                                                          Reset All
+                                                                                </Button>
+                                                                      </td>
+                                                                      <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                                      >
+                                                                                <div
+                                                                                          className="header"
+                                                                                >
+                                                                                           Cummulative number of squares created  : 
+                                                                                          NaN
+                                                                                           
+                                                                                </div>
+                                                                                <div
+                                                                                          className="row"
+                                                                                >
+                                                                                          
+                                                                                </div>
+                                                                      </td>
+                                                            </tr>
+                                                  </tbody>
+                                        </table>
+                              </Col>
+                    </Row>
+          </CardBody>
+</Card>,
+        "component": "div",
+        "transitionAppear": true,
+        "transitionAppearTimeout": 0,
+        "transitionEnter": false,
+        "transitionLeave": false,
+        "transitionName": "TabsAnimation",
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "children": <CardBody
+            tag="div"
+>
+            <CardTitle
+                        tag="div"
+            >
+                         Tile Renderer
+            </CardTitle>
+            <Row
+                        tag="div"
+                        widths={
+                                    Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                        }
+            >
+                        <Col
+                                    sm={12}
+                                    tag="div"
+                                    widths={
+                                                Array [
+                                                            "xs",
+                                                            "sm",
+                                                            "md",
+                                                            "lg",
+                                                            "xl",
+                                                          ]
+                                    }
+                        >
+                                    <table
+                                                className="table"
+                                    >
+                                                <tbody>
+                                                            <tr>
+                                                                        <td
+                                                                                    align="center"
+                                                                                    className="tdLeft"
+                                                                                    valign="middle"
+                                                                        >
+                                                                                    <Button
+                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                color="primary"
+                                                                                                id="reset"
+                                                                                                onClick={[Function]}
+                                                                                                size="lg"
+                                                                                                tag="button"
+                                                                                    >
+                                                                                                Reset All
+                                                                                    </Button>
+                                                                        </td>
+                                                                        <td
+                                                                                    align="center"
+                                                                                    className="tdRight"
+                                                                                    valign="middle"
+                                                                        >
+                                                                                    <div
+                                                                                                className="header"
+                                                                                    >
+                                                                                                 Cummulative number of squares created  : 
+                                                                                                NaN
+                                                                                                 
+                                                                                    </div>
+                                                                                    <div
+                                                                                                className="row"
+                                                                                    >
+                                                                                                
+                                                                                    </div>
+                                                                        </td>
+                                                            </tr>
+                                                </tbody>
+                                    </table>
+                        </Col>
+            </Row>
+</CardBody>,
+          "className": "main-card mb-12",
+          "tag": "div",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "children": Array [
+              <CardTitle
+                tag="div"
+>
+                 Tile Renderer
+</CardTitle>,
+              <Row
+                tag="div"
+                widths={
+                                Array [
+                                                "xs",
+                                                "sm",
+                                                "md",
+                                                "lg",
+                                                "xl",
+                                              ]
+                }
+>
+                <Col
+                                sm={12}
+                                tag="div"
+                                widths={
+                                                Array [
+                                                                "xs",
+                                                                "sm",
+                                                                "md",
+                                                                "lg",
+                                                                "xl",
+                                                              ]
+                                }
+                >
+                                <table
+                                                className="table"
+                                >
+                                                <tbody>
+                                                                <tr>
+                                                                                <td
+                                                                                                align="center"
+                                                                                                className="tdLeft"
+                                                                                                valign="middle"
+                                                                                >
+                                                                                                <Button
+                                                                                                                className="btn-wide mb-6 mr-6"
+                                                                                                                color="primary"
+                                                                                                                id="reset"
+                                                                                                                onClick={[Function]}
+                                                                                                                size="lg"
+                                                                                                                tag="button"
+                                                                                                >
+                                                                                                                Reset All
+                                                                                                </Button>
+                                                                                </td>
+                                                                                <td
+                                                                                                align="center"
+                                                                                                className="tdRight"
+                                                                                                valign="middle"
+                                                                                >
+                                                                                                <div
+                                                                                                                className="header"
+                                                                                                >
+                                                                                                                 Cummulative number of squares created  : 
+                                                                                                                NaN
+                                                                                                                 
+                                                                                                </div>
+                                                                                                <div
+                                                                                                                className="row"
+                                                                                                >
+                                                                                                                
+                                                                                                </div>
+                                                                                </td>
+                                                                </tr>
+                                                </tbody>
+                                </table>
+                </Col>
+</Row>,
+            ],
+            "tag": "div",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": " Tile Renderer",
+                "tag": "div",
+              },
+              "ref": null,
+              "rendered": " Tile Renderer",
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "children": <Col
+                  sm={12}
+                  tag="div"
+                  widths={
+                                    Array [
+                                                      "xs",
+                                                      "sm",
+                                                      "md",
+                                                      "lg",
+                                                      "xl",
+                                                    ]
+                  }
+>
+                  <table
+                                    className="table"
+                  >
+                                    <tbody>
+                                                      <tr>
+                                                                        <td
+                                                                                          align="center"
+                                                                                          className="tdLeft"
+                                                                                          valign="middle"
+                                                                        >
+                                                                                          <Button
+                                                                                                            className="btn-wide mb-6 mr-6"
+                                                                                                            color="primary"
+                                                                                                            id="reset"
+                                                                                                            onClick={[Function]}
+                                                                                                            size="lg"
+                                                                                                            tag="button"
+                                                                                          >
+                                                                                                            Reset All
+                                                                                          </Button>
+                                                                        </td>
+                                                                        <td
+                                                                                          align="center"
+                                                                                          className="tdRight"
+                                                                                          valign="middle"
+                                                                        >
+                                                                                          <div
+                                                                                                            className="header"
+                                                                                          >
+                                                                                                             Cummulative number of squares created  : 
+                                                                                                            NaN
+                                                                                                             
+                                                                                          </div>
+                                                                                          <div
+                                                                                                            className="row"
+                                                                                          >
+                                                                                                            
+                                                                                          </div>
+                                                                        </td>
+                                                      </tr>
+                                    </tbody>
+                  </table>
+</Col>,
+                "tag": "div",
+                "widths": Array [
+                  "xs",
+                  "sm",
+                  "md",
+                  "lg",
+                  "xl",
+                ],
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "function",
+                "props": Object {
+                  "children": <table
+                    className="table"
+>
+                    <tbody>
+                                        <tr>
+                                                            <td
+                                                                                align="center"
+                                                                                className="tdLeft"
+                                                                                valign="middle"
+                                                            >
+                                                                                <Button
+                                                                                                    className="btn-wide mb-6 mr-6"
+                                                                                                    color="primary"
+                                                                                                    id="reset"
+                                                                                                    onClick={[Function]}
+                                                                                                    size="lg"
+                                                                                                    tag="button"
+                                                                                >
+                                                                                                    Reset All
+                                                                                </Button>
+                                                            </td>
+                                                            <td
+                                                                                align="center"
+                                                                                className="tdRight"
+                                                                                valign="middle"
+                                                            >
+                                                                                <div
+                                                                                                    className="header"
+                                                                                >
+                                                                                                     Cummulative number of squares created  : 
+                                                                                                    NaN
+                                                                                                     
+                                                                                </div>
+                                                                                <div
+                                                                                                    className="row"
+                                                                                >
+                                                                                                    
+                                                                                </div>
+                                                            </td>
+                                        </tr>
+                    </tbody>
+</table>,
+                  "sm": 12,
+                  "tag": "div",
+                  "widths": Array [
+                    "xs",
+                    "sm",
+                    "md",
+                    "lg",
+                    "xl",
+                  ],
+                },
+                "ref": null,
+                "rendered": Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": <tbody>
+                      <tr>
+                                            <td
+                                                                  align="center"
+                                                                  className="tdLeft"
+                                                                  valign="middle"
+                                            >
+                                                                  <Button
+                                                                                        className="btn-wide mb-6 mr-6"
+                                                                                        color="primary"
+                                                                                        id="reset"
+                                                                                        onClick={[Function]}
+                                                                                        size="lg"
+                                                                                        tag="button"
+                                                                  >
+                                                                                        Reset All
+                                                                  </Button>
+                                            </td>
+                                            <td
+                                                                  align="center"
+                                                                  className="tdRight"
+                                                                  valign="middle"
+                                            >
+                                                                  <div
+                                                                                        className="header"
+                                                                  >
+                                                                                         Cummulative number of squares created  : 
+                                                                                        NaN
+                                                                                         
+                                                                  </div>
+                                                                  <div
+                                                                                        className="row"
+                                                                  >
+                                                                                        
+                                                                  </div>
+                                            </td>
+                      </tr>
+</tbody>,
+                    "className": "table",
+                  },
+                  "ref": null,
+                  "rendered": Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": <tr>
+                        <td
+                                                align="center"
+                                                className="tdLeft"
+                                                valign="middle"
+                        >
+                                                <Button
+                                                                        className="btn-wide mb-6 mr-6"
+                                                                        color="primary"
+                                                                        id="reset"
+                                                                        onClick={[Function]}
+                                                                        size="lg"
+                                                                        tag="button"
+                                                >
+                                                                        Reset All
+                                                </Button>
+                        </td>
+                        <td
+                                                align="center"
+                                                className="tdRight"
+                                                valign="middle"
+                        >
+                                                <div
+                                                                        className="header"
+                                                >
+                                                                         Cummulative number of squares created  : 
+                                                                        NaN
+                                                                         
+                                                </div>
+                                                <div
+                                                                        className="row"
+                                                >
+                                                                        
+                                                </div>
+                        </td>
+</tr>,
+                    },
+                    "ref": null,
+                    "rendered": Object {
+                      "instance": null,
+                      "key": undefined,
+                      "nodeType": "host",
+                      "props": Object {
+                        "children": Array [
+                          <td
+                            align="center"
+                            className="tdLeft"
+                            valign="middle"
+>
+                            <Button
+                                                        className="btn-wide mb-6 mr-6"
+                                                        color="primary"
+                                                        id="reset"
+                                                        onClick={[Function]}
+                                                        size="lg"
+                                                        tag="button"
+                            >
+                                                        Reset All
+                            </Button>
+</td>,
+                          <td
+                            align="center"
+                            className="tdRight"
+                            valign="middle"
+>
+                            <div
+                                                        className="header"
+                            >
+                                                         Cummulative number of squares created  : 
+                                                        NaN
+                                                         
+                            </div>
+                            <div
+                                                        className="row"
+                            >
+                                                        
+                            </div>
+</td>,
+                        ],
+                      },
+                      "ref": null,
+                      "rendered": Array [
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "align": "center",
+                            "children": <Button
+                              className="btn-wide mb-6 mr-6"
+                              color="primary"
+                              id="reset"
+                              onClick={[Function]}
+                              size="lg"
+                              tag="button"
+>
+                              Reset All
+</Button>,
+                            "className": "tdLeft",
+                            "valign": "middle",
+                          },
+                          "ref": null,
+                          "rendered": Object {
+                            "instance": null,
+                            "key": undefined,
+                            "nodeType": "class",
+                            "props": Object {
+                              "children": "Reset All",
+                              "className": "btn-wide mb-6 mr-6",
+                              "color": "primary",
+                              "id": "reset",
+                              "onClick": [Function],
+                              "size": "lg",
+                              "tag": "button",
+                            },
+                            "ref": null,
+                            "rendered": "Reset All",
+                            "type": [Function],
+                          },
+                          "type": "td",
+                        },
+                        Object {
+                          "instance": null,
+                          "key": undefined,
+                          "nodeType": "host",
+                          "props": Object {
+                            "align": "center",
+                            "children": Array [
+                              <div
+                                className="header"
+>
+                                 Cummulative number of squares created  : 
+                                NaN
+                                 
+</div>,
+                              <div
+                                className="row"
+>
+                                
+</div>,
+                            ],
+                            "className": "tdRight",
+                            "valign": "middle",
+                          },
+                          "ref": null,
+                          "rendered": Array [
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": Array [
+                                  " Cummulative number of squares created  : ",
+                                  NaN,
+                                  " ",
+                                ],
+                                "className": "header",
+                              },
+                              "ref": null,
+                              "rendered": Array [
+                                " Cummulative number of squares created  : ",
+                                NaN,
+                                " ",
+                              ],
+                              "type": "div",
+                            },
+                            Object {
+                              "instance": null,
+                              "key": undefined,
+                              "nodeType": "host",
+                              "props": Object {
+                                "children": Array [],
+                                "className": "row",
+                              },
+                              "ref": null,
+                              "rendered": Array [],
+                              "type": "div",
+                            },
+                          ],
+                          "type": "td",
+                        },
+                      ],
+                      "type": "tr",
+                    },
+                    "type": "tbody",
+                  },
+                  "type": "table",
+                },
+                "type": [Function],
+              },
+              "type": [Function],
+            },
+          ],
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+  Symbol(enzyme.__childContext__): null,
+}
+`;
